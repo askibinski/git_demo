@@ -12,4 +12,9 @@ class example {
   protected function foo() {
     return 'foo';
   }
+
+  protected function barr() {
+    return 'bar';
+  }
+
 }
