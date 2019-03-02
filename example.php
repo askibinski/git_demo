@@ -13,7 +13,7 @@ class example {
     return 'foo';
   }
 
-  protected function barr() {
+  protected function bar() {
     return 'bar';
   }
 
