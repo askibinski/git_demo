@@ -1,2 +1,2 @@
 # git_demo
-Just for demoing purposes / git flow / rabase / squish
+Just for demoing purposes / git flow / rebase / squash
